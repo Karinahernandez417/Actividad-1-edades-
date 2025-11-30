@@ -1,6 +1,6 @@
-// rfc_gdb.cpp
-// Programa educativo para calcular un RFC básico y una homoclave aproximada.
-// Compilar con: g++ -g rfc_gdb.cpp -o rfc_gdb
+Calcula rfc
+AUTOR KARINA HERNNADEZ MALDONADO
+30 DE NOV
 
 #include <iostream>
 #include <string>
